@@ -1,0 +1,5 @@
+# Ignora configuraciones de IDE y sistema
+.idea/
+node_modules/
+.DS_Store
+*.log
